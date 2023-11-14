@@ -1,0 +1,33 @@
+
+.root{
+	padding-left: 10%;
+}
+.div-bg{
+	width: 280px; 
+	height: 350px; 
+	background-color : cyan; 
+	padding: 20px; 
+	border: 3px solid red; 
+	margin-top: 20px; 
+	margin-left:20px;
+	float: left;
+
+}
+.title{
+	display: block; 
+	text-align: center; 
+	font-weight:bold; 
+	font-size: 25px;
+
+}
+.shopping{
+	font-size: 22px;
+	margin-left: 40px;
+	padding: 2px;
+}
+.bt_mua_hang{
+	margin-left: 90px;
+	margin-top: 10px;
+	padding: 5px;
+	background-color: yellow;
+}
